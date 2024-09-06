@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Drumee Team Server
+Source: <url://drumee.org>
+
+Files: *
+Copyright: 2011-2014 Somanos Sar <somanos.sar@drumee.com>
+           2016-2014 Drumee <contact@drumee.org>
+License: GPL-3.0+
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
+# Please avoid picking licenses with terms that are more restrictive than the
+# packaged work, as it may make Debian's contributions unacceptable upstream.

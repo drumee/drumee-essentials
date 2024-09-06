@@ -1,2 +1,2 @@
 # drumee-essentials
-Drumee Debian Tools
+Drumee Essentials Debian Package

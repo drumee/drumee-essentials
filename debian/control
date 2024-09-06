@@ -1,0 +1,12 @@
+Source: drumee-essentials
+Section: web
+Priority: optional
+Maintainer: Somanos Sar <somanos.sar@drumee.com>
+Standards-Version: 1.0.0
+Homepage: https://drumee.com
+
+Package: drumee-essentials
+Architecture: any
+Pre-Depends:${misc:Pre-Depends}
+Depends: ${misc:Depends}
+Description: Install and configure Drumee Essentials Dependencies

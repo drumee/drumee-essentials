@@ -1,0 +1,5 @@
+.git/
+*.swp
+.github
+.npmrc
+.dev-tools.rc/

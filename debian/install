@@ -1,0 +1,3 @@
+files/var/lib/* var/lib
+files/usr/* usr
+files/etc/* etc
